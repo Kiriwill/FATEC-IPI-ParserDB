@@ -4,7 +4,7 @@ DelafParserDB é um banco de palavras em Português-brasileiro para processament
 
 ## Autores
 PACHECO, Willian. 
-Banco de dados para análise sintática em sentenças do português brasileiro.
+[Banco de dados para análise sintática em sentenças do português brasileiro.](https://github.com/Kiriwill/FATEC-IPI-ParserDB/blob/master/Projeto%20de%20Pesquisa%20do%20Programa%20de%20Iniciacao%20Cientifica%20ou%20Tecnologica%20-%20Willian.pdf)
 
 Orientador: Manoel Francisco Guaranha
 
