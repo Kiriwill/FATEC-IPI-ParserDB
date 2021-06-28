@@ -1,0 +1,14 @@
+version: '3.1'
+
+services:
+  db:
+    image: postgres:12.7
+    container_name: UnitexParserDB
+    ports: 
+      - 5433:5432
+    environment:
+      - POSTGRES_USER=parserUser
+      - POSTGRES_PASSWORD=123456
+      - POSTGRES_DB=parserDB
+
+#psql -U willian -d parserDB -W
