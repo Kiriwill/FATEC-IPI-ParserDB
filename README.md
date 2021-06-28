@@ -1,10 +1,12 @@
 DelafParserDB 
 ----
-Um banco de palavras em Português-brasileiro para processamento sintático construido com base no dicionário do [Projeto Unitex-PB](http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/index.html).
+DelafParserDB é um banco de palavras em Português-brasileiro para processamento sintático construido com base no dicionário do [Projeto Unitex-PB](http://www.nilc.icmc.usp.br/nilc/projects/unitex-pb/web/index.html). É um resultado do Programa de Iniciacão científica e Tecnológica da FATEC - Ipiranga.
 
 ## Autores
 PACHECO, Willian. 
 Banco de dados para análise sintática em sentenças do português brasileiro.
+
+Orientador: Manoel Francisco Guaranha
 
 
 ## Instalação
